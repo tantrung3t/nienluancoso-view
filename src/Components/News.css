@@ -1,0 +1,28 @@
+ 
+
+ .frame{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 24%;
+    height: 400px;
+    float: left;
+    transition: transform .2s; /* Animation */
+    margin: 0 auto;
+ }
+
+  
+  .frame:hover {
+    transform: scale(1.03);
+  }
+
+ .title:hover {
+    color: yellow;
+  }
+
+ .img{
+     width: 300px;
+     height: 300px;
+
+ }
